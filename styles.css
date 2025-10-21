@@ -1,0 +1,53 @@
+body {
+    color: #a2a9d9;
+    font-family: Space;
+    text-align: center;
+    margin: 0;
+}
+
+#hero{
+    background-image: url("./images/loop space.gif");
+    background-size: cover;
+    display: block;
+    text-align: center;
+    padding: 10px 0 40px 0;
+    
+}
+
+.btn {
+    background-color: white; /* Green */
+    border: none;
+    color: #a2a9d9;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-family: Space;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+@font-face {
+    font-family: Space;
+    src: url("./fonts/space-future/Space Future - Bold.ttf");
+}
+
+@font-face {
+    font-family: Space-Regular;
+    src: url("./fonts/space-future/Space Future.ttf");
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 0px 0px 4px black;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+
+#main-logo {
+    width: 100px;
+}
