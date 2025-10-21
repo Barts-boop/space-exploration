@@ -6,7 +6,7 @@ body {
 }
 
 #hero{
-    background-image: url("./images/loop space.gif");
+    background-image: url("./images/background.jpg");
     background-size: cover;
     display: block;
     text-align: center;
@@ -50,4 +50,5 @@ h1 {
 
 #main-logo {
     width: 100px;
+
 }
